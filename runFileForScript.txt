@@ -1,0 +1,4 @@
+1. ./find_files.sh "C:\Users\Varya\Desktop\422" txt
+2. ./find_files_with_text.sh C:/Users/Varya/Desktop/422 Hello
+3. ./find_text_by_keys.sh -p C:/Users/Varya/Desktop/422 -s Hello
+4. ./count_files.sh C:/Users/Varya/Desktop/422 docx
